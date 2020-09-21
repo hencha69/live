@@ -566,7 +566,7 @@ https://raw.githubusercontent.com/hencha69/live/master/red.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9igBj1.png" group-title="MOVIES/SERIES", FOX ACTION MOVIES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrnRnm9.png" group-title="MOVIES/SERIES", FOX FAMILY MOVIES
-
+https://delivery.javatv.online/stream/foxfamilymovies_idn/playlist.m3u8?token=mkn48&v=20200807
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF03tTN.png" group-title="MOVIES/SERIES", FOX CRIME
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJjrZip.png" group-title="MOVIES/SERIES", FOX LIFE
@@ -864,7 +864,7 @@ https://zalogi.xyz/exo/playlist/hgtv-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uojK8Fo.png" group-title="LIFESYTLE/DOCUMENTARY", NAT GEO PEOPLE
 #http://103.47.132.164/PLTV/88888888/224/3221227127/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skc0icT.png" group-title="LIFESYTLE/DOCUMENTARY", LOVE NATURE
-#http://103.47.132.164/PLTV/88888888/224/3221227339/3.m3u8
+https://delivery.javatv.online/stream/love_nature/playlist.m3u8?token=mkn48&v=20200807
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JH3n7y1.png" group-title="LIFESYTLE/DOCUMENTARY", SMITHSONIAN
 #http://103.47.132.164/PLTV/88888888/224/3221227321/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Slajw1h.png" group-title="LIFESYTLE/DOCUMENTARY", AFN
@@ -988,7 +988,7 @@ https://zalogi.xyz/exo/playlist/tvedukasi-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdqfIXq.png" group-title="KIDS", DISNEY CHANNEL
 https://zalogi.xyz/exo/playlist/plus-disney-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdqfIXq.png" group-title="KIDS", DISNEY CHANNEL
-#http://103.47.132.164/PLTV/88888888/224/3221227183/3.m3u8
+https://delivery.javatv.online/stream/disneychannel_id/playlist.m3u8?token=mkn48&v=20200807
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EH88d1S.png" group-title="KIDS", DISNEY JUNIOR
 https://zalogi.xyz/exo/playlist/plus-disneyjr-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i4nBQZc.png" group-title="KIDS", ANIMAX 

@@ -1,0 +1,627 @@
+##### CDN PRIMARY #####
+#EXTINF:-1 group-title="MONITORING", MONITORING TSM 1
+http://10.91.0.5/monitoring
+#EXTINF:-1 group-title="MONITORING", MONITORING TSM 2
+http://10.91.0.4/monitoring
+#EXTINF:-1 group-title="CDN PRIMARY", AXN
+http://172.27.0.3:8278/01AXN/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", BLOOMBERG
+http://172.27.0.3:8278/01BLOOMBERG/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DISNEY
+http://172.27.0.3:8278/01DISNEYCH/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX ACTION MOVIES
+http://172.27.0.3:8278/01FOXACTIONMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX CRIME
+http://172.27.0.3:8278/01FOXCRIME/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX FAMILY MOVIES
+http://172.27.0.3:8278/01FOXFAMMOV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX
+http://172.27.0.3:8278/01FOXHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX LIFE
+http://172.27.0.3:8278/01FOXLIFE/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX MOVIES
+http://172.27.0.3:8278/01FOXMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX SPORTS
+http://172.27.0.3:8278/01FOXSPORT01/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX SPORTS 2
+http://172.27.0.3:8278/01FOXSPORT02/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FOX SPORTS 3
+http://172.27.0.3:8278/01FOXSPORT03/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FX
+http://172.27.0.3:8278/01FX/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", NAT GEO
+http://172.27.0.3:8278/01NATGEO/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", NAT GEO PEOPLE
+http://172.27.0.3:8278/01NATGEOPPL/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", NAT GEO WILD
+http://172.27.0.3:8278/01NATGEOWILD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", STAR CHINESE
+http://172.27.0.3:8278/01STARCHINESE/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", AL ARABIYA
+http://172.27.0.3:8278/FTA-ALARABIYA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", BVN
+http://172.27.0.3:8278/FTA-BVN/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DUBAI SPORTS
+http://172.27.0.3:8278/FTA-DUBAISPORTS/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DUBAI TV
+http://172.27.0.3:8278/FTA-DUBAITV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ELSHINTA TV
+http://172.27.0.3:8278/FTA-ELSHINTATV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", EMARAT TV
+http://172.27.0.3:8278/FTA-EMARATTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", JTV
+http://172.27.0.3:8278/FTA-JTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", LUXE TV
+http://172.27.0.3:8278/FTA-LUXETV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MAGNA TV
+http://172.27.0.3:8278/FTA-MAGNATV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MATV
+http://172.27.0.3:8278/FTA-MATV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MSTV
+http://172.27.0.3:8278/FTA-MSTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MYTV
+http://172.27.0.3:8278/FTA-MYTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", OMAN TV
+http://172.27.0.3:8278/FTA-OMANTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", PIJAR TV
+http://172.27.0.3:8278/FTA-PIJARTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", QATAR TV
+http://172.27.0.3:8278/FTA-QATARTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RODJA TV
+http://172.27.0.3:8278/FTA-RODJATV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RTR PLANETA
+http://172.27.0.3:8278/FTA-RTRPLANETA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", SAUDI TV
+http://172.27.0.3:8278/FTA-SAUDITV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TV9
+http://172.27.0.3:8278/FTA-TV9/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TVB 
+http://172.27.0.3:8278/FTA-TVB/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TV MU
+http://172.27.0.3:8278/FTA-TVMU/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", U CHANNEL
+http://172.27.0.3:8278/FTA-UCHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", 1TVRUS
+http://172.27.0.3:8278/FTAAS5-1RUSIA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ALKASS 2
+http://172.27.0.3:8278/FTAAS5-ALKASS2/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", AL QURAN AL KARIM
+http://172.27.0.3:8278/FTAAS5-ALQURAN/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", AL SUNNAH TV
+http://172.27.0.3:8278/FTAAS5-ALSUNNAH/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", EURONEWS
+http://172.27.0.3:8278/FTAAS5-EURONEWS/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RAI ITALY
+http://172.27.0.3:8278/FTAAS5-RAIITALY/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TVE
+http://172.27.0.3:8278/FTAAS5-TVEINTERN/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", AL JAZEERA ENG
+http://172.27.0.3:8278/FTAAS7-ALJAZEERA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CHANNEL NEWS ASIA
+http://172.27.0.3:8278/FTAAS7-CNAHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DW DEUTSCH
+http://172.27.0.3:8278/FTAAS7-DWDEUTSCH/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DW ENGLISH 
+http://172.27.0.3:8278/FTAAS7-DWENGLISH/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FRANCE 24
+http://172.27.0.3:8278/FTAAS7-FRANCE24ENG/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", NHK WORLD
+http://172.27.0.3:8278/FTAAS7-NHKWORLDHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", PHOENIX CHINESE
+http://172.27.0.3:8278/FTAAS7-PHOENIXCN/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", PHOENIX HONGKONG
+http://172.27.0.3:8278/FTAAS7-PHOENIXHK/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", PHOENIX INFO
+http://172.27.0.3:8278/FTAAS7-PHOENIXINFO/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TRT WORLD
+http://172.27.0.3:8278/FTAAS7-TRTWORLD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TV5 ASIA
+http://172.27.0.3:8278/FTAAS7-TV5ASIE/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CHANNEL V CHINESE
+http://172.27.0.3:8278/FTAAS7-VCHINA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", XINGKONG
+http://172.27.0.3:8278/FTAAS7-XINGKONG/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ZING
+http://172.27.0.3:8278/FTAAS7-ZING/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CCTV 4
+http://172.27.0.3:8278/FTACS6B-CCTV04/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CCTV 7
+http://172.27.0.3:8278/FTACS6B-CCTV07/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CGTN DOCUMENTARY
+http://172.27.0.3:8278/FTACS6B-CGTNDOC/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CGTN 
+http://172.27.0.3:8278/FTACS6B-CGTNHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DRAGON TV
+http://172.27.0.3:8278/FTACS6B-DRAGON/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", HUNAN TV
+http://172.27.0.3:8278/FTACS6B-HUNANTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ANTV
+http://172.27.0.3:8278/FTAID-ANTVSD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", BALI TV
+http://172.27.0.3:8278/FTAID-BALITV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", BERITA SATU
+http://172.27.0.3:8278/FTAID-BERITASATU/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CNBC INDONESIA
+http://172.27.0.3:8278/FTAID-CNBCIND/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CNN INDONESIA
+http://172.27.0.3:8278/FTAID-CNNINDONESIA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DAAI TV
+http://172.27.0.3:8278/FTAID-DAAITV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", GLOBAL TV
+http://172.27.0.3:8278/FTAID-GLOBALTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", INDOSIAR
+http://172.27.0.3:8278/FTAID-INDOSIAR/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", JAK TV
+http://172.27.0.3:8278/FTAID-JAKTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", KHAZANAH 
+http://172.27.0.3:8278/FTAID-KHAZANAH/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", KOMPAS TV
+http://172.27.0.3:8278/FTAID-KOMPASTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", METRO TV
+http://172.27.0.3:8278/FTAID-METROTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MNC TV
+http://172.27.0.3:8278/FTAID-MNCTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", NET
+http://172.27.0.3:8278/FTAID-NET-HD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", O CHANNEL
+http://172.27.0.3:8278/FTAID-OCHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RCTI
+http://172.27.0.3:8278/FTAID-RCTI/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", REFORMED21
+http://172.27.0.3:8278/FTAID-REFORMED21/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RAJAWALI TV 
+http://172.27.0.3:8278/FTAID-RTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", SCTV
+http://172.27.0.3:8278/FTAID-SCTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TRANS 7
+http://172.27.0.3:8278/FTAID-TRANS7/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TRANS TV 
+http://172.27.0.3:8278/FTAID-TRANSTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TVONE
+http://172.27.0.3:8278/FTAID-TVONESD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TVRI NASIONAL
+http://172.27.0.3:8278/FTAID-TVRINASIONAL/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TVRI SPORTS 
+http://172.27.0.3:8278/FTAID-TVRISPORT/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ARIRANG TV 
+http://172.27.0.3:8278/FTAIS19-ARIRANGSD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MTV CHINA 
+http://172.27.0.3:8278/FTAIS19-MTVCHINA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RUSIA TODAY
+http://172.27.0.3:8278/FTAIS20-RTNEWSHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RTM1
+http://172.27.0.3:8278/MY-RTM1/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", RTM BERITA
+http://172.27.0.3:8278/MY-RTMBERITA/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ABC AUSTRALIA 
+http://172.27.0.3:8278/PREM-ABCAUS/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ANIPLUS
+http://172.27.0.3:8278/PREM-ANIPLUS/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", BABY FIRTS
+http://172.27.0.3:8278/PREM-BABYFIRST/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", BIOSKOP INDONESIA 
+http://172.27.0.3:8278/PREM-BIOSKOPIND/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CHANNEL V ASIA 
+http://172.27.0.3:8278/PREM-CHVHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", CNN INTERNATIONAL 
+http://172.27.0.3:8278/PREM-CNNINTERHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DISNEY
+http://172.27.0.3:8278/PREM-DISNEYCHHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DISNEY JUNIOR 
+http://172.27.0.3:8278/PREM-DISNEYJR/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DUCK TV 
+http://172.27.0.3:8278/PREM-DUCKTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", DUNIA ANAK
+http://172.27.0.3:8278/PREM-DUNIAANAK/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", EAT & GO
+http://172.27.0.3:8278/PREM-EATNGO/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", FASHION TV 
+http://172.27.0.3:8278/PREM-FASHIONTV/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", GALAXY
+http://172.27.0.3:8278/PREM-GALAXY/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", GALAXY PREMIUM
+http://172.27.0.3:8278/PREM-GALAXYPREM/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", HBO 
+http://172.27.0.3:8278/PREM-HBOHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", IMC
+http://172.27.0.3:8278/PREM-IMC/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", INSERT
+http://172.27.0.3:8278/PREM-INSERT/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", KBS WORLD
+http://172.27.0.3:8278/PREM-KBSWORLDHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", KIX
+http://172.27.0.3:8278/PREM-KIX/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MOLA TV FREE
+http://172.27.0.3:8278/PREM-MOLATVFREE/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", MTV LIVE
+http://172.27.0.3:8278/PREM-MTVLIVE/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", NHK PREMIUM
+http://172.27.0.3:8278/PREM-NHKPREMIUM/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", GEM
+http://172.27.0.3:8278/PREM-SONYGEM/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", ONE
+http://172.27.0.3:8278/PREM-SONYONEHD/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", STAR CHINESE MOVIES LEGEND
+http://172.27.0.3:8278/PREM-STARCHILEG/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", STAR CHINESE MOVIES
+http://172.27.0.3:8278/PREM-STARCHIMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", THRILL
+http://172.27.0.3:8278/PREM-THRILL/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", T MUSIC
+http://172.27.0.3:8278/PREM-TMUSIC/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", TVN
+http://172.27.0.3:8278/PREM-TVN/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", WAKU WAKU JAPAN
+http://172.27.0.3:8278/PREM-WAKUWAKU/playlist.m3u8
+#EXTINF:-1 group-title="CDN PRIMARY", YTN
+http://172.27.0.3:8278/PREM-YTNKOREA/playlist.m3u8
+
+##### TRANSCODE 10.91.0.2 #####
+#EXTINF:-1 group-title="10.91.0.2", T MUSIC 10.91.0.2
+http://10.91.0.2:8888/http/001
+#EXTINF:-1 group-title="10.91.0.2", GLOBAL TV 10.91.0.2
+http://10.91.0.2:8888/http/002
+#EXTINF:-1 group-title="10.91.0.2", MNC TV 10.91.0.2
+http://10.91.0.2:8888/http/003
+#EXTINF:-1 group-title="10.91.0.2", WAKU WAKU JAPAN 10.91.0.2
+http://10.91.0.2:8888/http/004
+#EXTINF:-1 group-title="10.91.0.2", RCTI 10.91.0.2
+http://10.91.0.2:8888/http/005
+#EXTINF:-1 group-title="10.91.0.2", FX 10.91.0.2
+http://10.91.0.2:8888/http/006
+#EXTINF:-1 group-title="10.91.0.2", FOX CRIME 10.91.0.2
+http://10.91.0.2:8888/http/007
+#EXTINF:-1 group-title="10.91.0.2", TVRI 10.91.0.2
+http://10.91.0.2:8888/http/008
+#EXTINF:-1 group-title="10.91.0.2", RUSIAN TODAY 10.91.0.2
+http://10.91.0.2:8888/http/009
+#EXTINF:-1 group-title="10.91.0.2", EAT N GO 10.91.0.2
+http://10.91.0.2:8888/http/010
+#EXTINF:-1 group-title="10.91.0.2", INDOSIAR 10.91.0.2
+http://10.91.0.2:8888/http/011
+#EXTINF:-1 group-title="10.91.0.2", TVONE 10.91.0.2
+http://10.91.0.2:8888/http/012
+#EXTINF:-1 group-title="10.91.0.2", ANTV 10.91.0.2
+http://10.91.0.2:8888/http/013
+#EXTINF:-1 group-title="10.91.0.2", DAAI TV 10.91.0.2
+http://10.91.0.2:8888/http/014
+#EXTINF:-1 group-title="10.91.0.2", DW 10.91.0.2
+http://10.91.0.2:8888/http/015
+#EXTINF:-1 group-title="10.91.0.2", METRO TV 10.91.0.2
+http://10.91.0.2:8888/http/016
+#EXTINF:-1 group-title="10.91.0.2", SCTV 10.91.0.2
+http://10.91.0.2:8888/http/017
+#EXTINF:-1 group-title="10.91.0.2", KOMPAS TV 10.91.0.2
+http://10.91.0.2:8888/http/018
+#EXTINF:-1 group-title="10.91.0.2", EURONEWS 10.91.0.2
+http://10.91.0.2:8888/http/019
+#EXTINF:-1 group-title="10.91.0.2", NHK PREMIUM 10.91.0.2
+http://10.91.0.2:8888/http/020
+#EXTINF:-1 group-title="10.91.0.2", STAR CHINESE MOVIES LEGEND 10.91.0.2
+http://10.91.0.2:8888/http/021
+#EXTINF:-1 group-title="10.91.0.2", ABC AUSTRALIA 10.91.0.2
+http://10.91.0.2:8888/http/022
+#EXTINF:-1 group-title="10.91.0.2", STAR CHINESE 10.91.0.2
+http://10.91.0.2:8888/http/023
+#EXTINF:-1 group-title="10.91.0.2", DUCK TV 10.91.0.2
+http://10.91.0.2:8888/http/024
+#EXTINF:-1 group-title="10.91.0.2", NAT GEO PEOPLE 10.91.0.2
+http://10.91.0.2:8888/http/025
+#EXTINF:-1 group-title="10.91.0.2", CHANNEL V 10.91.0.2
+http://10.91.0.2:8888/http/026
+#EXTINF:-1 group-title="10.91.0.2", FOX LIFE 10.91.0.2
+http://10.91.0.2:8888/http/027
+#EXTINF:-1 group-title="10.91.0.2", NAT GEO WILD 10.91.0.2
+http://10.91.0.2:8888/http/028
+#EXTINF:-1 group-title="10.91.0.2", FOX ACTION MOVIES 10.91.0.2
+http://10.91.0.2:8888/http/029
+#EXTINF:-1 group-title="10.91.0.2", MTV LIVE 10.91.0.2
+http://10.91.0.2:8888/http/030
+#EXTINF:-1 group-title="10.91.0.2", FOX SPORTS 10.91.0.2
+http://10.91.0.2:8888/http/031
+#EXTINF:-1 group-title="10.91.0.2", FOX SPORTS 3 10.91.0.2
+http://10.91.0.2:8888/http/032
+#EXTINF:-1 group-title="10.91.0.2", INSERT 10.91.0.2
+http://10.91.0.2:8888/http/033
+#EXTINF:-1 group-title="10.91.0.2", BIOSKOP INDONESIA 10.91.0.2
+http://10.91.0.2:8888/http/034
+#EXTINF:-1 group-title="10.91.0.2", THRILL 10.91.0.2
+http://10.91.0.2:8888/http/035
+#EXTINF:-1 group-title="10.91.0.2", PIJAR TV 10.91.0.2
+http://10.91.0.2:8888/http/036
+##### TRANSCODE 10.91.0.3 #####
+#EXTINF:-1 group-title="10.91.0.3", BABY FIRST 10.91.0.3
+http://10.91.0.3:8888/http/001
+#EXTINF:-1 group-title="10.91.0.3", KHAZANAH 10.91.0.3
+http://10.91.0.3:8888/http/002
+#EXTINF:-1 group-title="10.91.0.3", BERITA SATU 10.91.0.3
+http://10.91.0.3:8888/http/003
+#EXTINF:-1 group-title="10.91.0.3", BLOOMBERG 10.91.0.3
+http://10.91.0.3:8888/http/004
+#EXTINF:-1 group-title="10.91.0.3", STAR CHINESE MOVIES 10.91.0.3
+http://10.91.0.3:8888/http/005
+#EXTINF:-1 group-title="10.91.0.3", KBS WORLD 10.91.0.3
+http://10.91.0.3:8888/http/006
+#EXTINF:-1 group-title="10.91.0.3", FOX 10.91.0.3
+http://10.91.0.3:8888/http/007
+#EXTINF:-1 group-title="10.91.0.3", TRANS 7 10.91.0.3
+http://10.91.0.3:8888/http/008
+#EXTINF:-1 group-title="10.91.0.3", FOX MOVIES 10.91.0.3
+http://10.91.0.3:8888/http/009
+#EXTINF:-1 group-title="10.91.0.3", TRANS TV 10.91.0.3
+http://10.91.0.3:8888/http/010
+#EXTINF:-1 group-title="10.91.0.3", TVN 10.91.0.3
+http://10.91.0.3:8888/http/011
+#EXTINF:-1 group-title="10.91.0.3", FOX FAMILY MOVIES 10.91.0.3
+http://10.91.0.3:8888/http/012
+#EXTINF:-1 group-title="10.91.0.3", NAT GEO 10.91.0.3
+http://10.91.0.3:8888/http/013
+#EXTINF:-1 group-title="10.91.0.3", FOX SPORTS 2 10.91.0.3
+http://10.91.0.3:8888/http/014
+#EXTINF:-1 group-title="10.91.0.3", ANIPLUS 10.91.0.3
+http://10.91.0.3:8888/http/015
+
+##### TRANSCODE 10.90.0.3 #####
+
+
+##### TRANSCODE 10.90.0.4 #####
+#EXTINF:-1 group-title="10.90.0.4", DW ENGLISH 10.90.0.4
+http://10.90.0.4:8888/http/001
+#EXTINF:-1 group-title="10.90.0.4", DAAI TV 10.90.0.4
+http://10.90.0.4:8888/http/002
+#EXTINF:-1 group-title="10.90.0.4", CNA 10.90.0.4
+http://10.90.0.4:8888/http/003
+#EXTINF:-1 group-title="10.90.0.4", ARIRANG TV 10.90.0.4
+http://10.90.0.4:8888/http/004
+#EXTINF:-1 group-title="10.90.0.4", ALJAZEERA 10.90.0.4
+http://10.90.0.4:8888/http/005
+#EXTINF:-1 group-title="10.90.0.4", NHK WORLD 10.90.0.4
+http://10.90.0.4:8888/http/006
+#EXTINF:-1 group-title="10.90.0.4", FRANCE24 FRA 10.90.0.4
+http://10.90.0.4:8888/http/007
+#EXTINF:-1 group-title="10.90.0.4", YTN 10.90.0.4
+http://10.90.0.4:8888/http/008
+#EXTINF:-1 group-title="10.90.0.4", FASHION TV 10.90.0.4
+http://10.90.0.4:8888/http/009
+#EXTINF:-1 group-title="10.90.0.4", SONY ONE 10.90.0.4
+http://10.90.0.4:8888/http/010
+#EXTINF:-1 group-title="10.90.0.4", SONY GEM 10.90.0.4
+http://10.90.0.4:8888/http/011
+#EXTINF:-1 group-title="10.90.0.4", TVB 10.90.0.4
+http://10.90.0.4:8888/http/012
+#EXTINF:-1 group-title="10.90.0.4", XINGKONG 10.90.0.4
+http://10.90.0.4:8888/http/013
+#EXTINF:-1 group-title="10.90.0.4", V CHINA 10.90.0.4
+http://10.90.0.4:8888/http/014
+#EXTINF:-1 group-title="10.90.0.4", MTV CHINA 10.90.0.4
+http://10.90.0.4:8888/http/015
+#EXTINF:-1 group-title="10.90.0.4", ZING 10.90.0.4
+http://10.90.0.4:8888/http/016
+#EXTINF:-1 group-title="10.90.0.4", DW DEUTSCH 10.90.0.4
+http://10.90.0.4:8888/http/017
+#EXTINF:-1 group-title="10.90.0.4", PHOENIX NEWS 10.90.0.4
+http://10.90.0.4:8888/http/018
+#EXTINF:-1 group-title="10.90.0.4", PHOENIX HONGKONG 10.90.0.4
+http://10.90.0.4:8888/http/019
+#EXTINF:-1 group-title="10.90.0.4", PHOENIX CHINESE 10.90.0.4
+http://10.90.0.4:8888/http/020
+#EXTINF:-1 group-title="10.90.0.4", CGTN 10.90.0.4
+http://10.90.0.4:8888/http/021
+#EXTINF:-1 group-title="10.90.0.4", CGTN DOC 10.90.0.4
+http://10.90.0.4:8888/http/022
+#EXTINF:-1 group-title="10.90.0.4", CCTV 4 10.90.0.4 
+http://10.90.0.4:8888/http/023
+#EXTINF:-1 group-title="10.90.0.4", DRAGON TV 10.90.0.4
+http://10.90.0.4:8888/http/024
+#EXTINF:-1 group-title="10.90.0.4", CCTV 7 10.90.0.4
+http://10.90.0.4:8888/http/025
+#EXTINF:-1 group-title="10.90.0.4", HUNAN TV 10.90.0.4
+http://10.90.0.4:8888/http/026
+#EXTINF:-1 group-title="10.90.0.4", TV5 ASIA 10.90.0.4
+http://10.90.0.4:8888/http/027
+#EXTINF:-1 group-title="10.90.0.4", METRO TV 10.90.0.4
+http://10.90.0.4:8888/http/028
+#EXTINF:-1 group-title="10.90.0.4", U CHANNEL 10.90.0.4
+http://10.90.0.4:8888/http/029
+#EXTINF:-1 group-title="10.90.0.4", TRT WORLD 10.90.0.4
+http://10.90.0.4:8888/http/030
+#EXTINF:-1 group-title="10.90.0.4", RAJAWALI TV 10.90.0.4
+http://10.90.0.4:8888/http/031
+#EXTINF:-1 group-title="10.90.0.4", TV MU 10.90.0.4
+http://10.90.0.4:8888/http/032
+
+##### TRANSCODE 10.90.0.5 #####
+#EXTINF:-1 group-title="10.90.0.5", CNN INDONESIA 10.90.0.5
+http://10.90.0.5:8888/http/001
+#EXTINF:-1 group-title="10.90.0.5", SCTV 10.90.0.5
+http://10.90.0.5:8888/http/002
+#EXTINF:-1 group-title="10.90.0.5", INDOSIAR 10.90.0.5
+http://10.90.0.5:8888/http/003
+#EXTINF:-1 group-title="10.90.0.5", JTV 10.90.0.5
+http://10.90.0.5:8888/http/004
+#EXTINF:-1 group-title="10.90.0.5", RTR PLANETA 10.90.0.5
+http://10.90.0.5:8888/http/005
+#EXTINF:-1 group-title="10.90.0.5", O CHANNEL 10.90.0.5
+http://10.90.0.5:8888/http/006
+#EXTINF:-1 group-title="10.90.0.5", TVRI NASIONAL 10.90.0.5
+http://10.90.0.5:8888/http/007
+#EXTINF:-1 group-title="10.90.0.5", TVRI SPORT 10.90.0.5
+http://10.90.0.5:8888/http/008
+#EXTINF:-1 group-title="10.90.0.5", PIJAR TV 10.90.0.5
+http://10.90.0.5:8888/http/009
+#EXTINF:-1 group-title="10.90.0.5", TRANS 7 10.90.0.5
+http://10.90.0.5:8888/http/010
+#EXTINF:-1 group-title="10.90.0.5", RUSIAN TODAY 10.90.0.5
+http://10.90.0.5:8888/http/011
+#EXTINF:-1 group-title="10.90.0.5", NET 10.90.0.5
+http://10.90.0.5:8888/http/012
+#EXTINF:-1 group-title="10.90.0.5", KOMPAS TV 10.90.0.5
+http://10.90.0.5:8888/http/013
+#EXTINF:-1 group-title="10.90.0.5", EURONEWS 10.90.0.5
+http://10.90.0.5:8888/http/014
+#EXTINF:-1 group-title="10.90.0.5", TVONE 10.90.0.5
+http://10.90.0.5:8888/http/015
+#EXTINF:-1 group-title="10.90.0.5", JAK TV 10.90.0.5
+http://10.90.0.5:8888/http/016
+#EXTINF:-1 group-title="10.90.0.5", TVE 10.90.0.5
+http://10.90.0.5:8888/http/017
+#EXTINF:-1 group-title="10.90.0.5", ALKASS2 10.90.0.5
+http://10.90.0.5:8888/http/018
+#EXTINF:-1 group-title="10.90.0.5", RAI ITALIA 10.90.0.5
+http://10.90.0.5:8888/http/019
+#EXTINF:-1 group-title="10.90.0.5", 1TVRUS 10.90.0.5
+http://10.90.0.5:8888/http/020
+#EXTINF:-1 group-title="10.90.0.5", ANTV 10.90.0.5
+http://10.90.0.5:8888/http/021
+#EXTINF:-1 group-title="10.90.0.5", MAGNA TV 10.90.0.5
+http://10.90.0.5:8888/http/022
+#EXTINF:-1 group-title="10.90.0.5", CNBC INDONESIA 10.90.0.5
+http://10.90.0.5:8888/http/023
+#EXTINF:-1 group-title="10.90.0.5", MY TV 10.90.0.5
+http://10.90.0.5:8888/http/024
+#EXTINF:-1 group-title="10.90.0.5", SAUDI QURAN 10.90.0.5
+http://10.90.0.5:8888/http/025
+#EXTINF:-1 group-title="10.90.0.5", SAUDI SUNNA 10.90.0.5
+http://10.90.0.5:8888/http/026
+#EXTINF:-1 group-title="10.90.0.5", DUBAI SPORTS 10.90.0.5
+http://10.90.0.5:8888/http/027
+#EXTINF:-1 group-title="10.90.0.5", BVN 10.90.0.5
+http://10.90.0.5:8888/http/029
+#EXTINF:-1 group-title="10.90.0.5", DUBAI TV 10.90.0.5
+http://10.90.0.5:8888/http/030
+#EXTINF:-1 group-title="10.90.0.5", MSTV 10.90.0.5
+http://10.90.0.5:8888/http/031
+#EXTINF:-1 group-title="10.90.0.5", MATV 10.90.0.5
+http://10.90.0.5:8888/http/032
+#EXTINF:-1 group-title="10.90.0.5", OMAN TV 10.90.0.5
+http://10.90.0.5:8888/http/033
+#EXTINF:-1 group-title="10.90.0.5", AL ARABIYA 10.90.0.5
+http://10.90.0.5:8888/http/034
+#EXTINF:-1 group-title="10.90.0.5", QATAR TV 10.90.0.5
+http://10.90.0.5:8888/http/035
+#EXTINF:-1 group-title="10.90.0.5", EMARAT TV 10.90.0.5
+http://10.90.0.5:8888/http/036
+#EXTINF:-1 group-title="10.90.0.5", LUXE TV 10.90.0.5
+http://10.90.0.5:8888/http/038
+#EXTINF:-1 group-title="10.90.0.5", SAUDI TV 10.90.0.5
+http://10.90.0.5:8888/http/039
+##### TRANSCODE 10.90.0.6 #####
+#EXTINF:-1 group-title="10.90.0.6", KBS WORLD 10.90.0.6
+http://10.90.0.6:8888/http/001
+#EXTINF:-1 group-title="10.90.0.6", BABY FIRST 10.90.0.6
+http://10.90.0.6:8888/http/002
+#EXTINF:-1 group-title="10.90.0.6", BALI TV 10.90.0.6
+http://10.90.0.6:8888/http/003
+#EXTINF:-1 group-title="10.90.0.6", DISNEY 10.90.0.6
+http://10.90.0.6:8888/http/004
+#EXTINF:-1 group-title="10.90.0.6", INSERT 10.90.0.6
+http://10.90.0.6:8888/http/005
+#EXTINF:-1 group-title="10.90.0.6", KHAZANAH 10.90.0.6
+http://10.90.0.6:8888/http/006
+#EXTINF:-1 group-title="10.90.0.6", DUNIA ANAK 10.90.0.6
+http://10.90.0.6:8888/http/007
+#EXTINF:-1 group-title="10.90.0.6", ANIPLUS 10.90.0.6
+http://10.90.0.6:8888/http/008
+#EXTINF:-1 group-title="10.90.0.6", RODJA TV 10.90.0.6
+http://10.90.0.6:8888/http/009
+#EXTINF:-1 group-title="10.90.0.6", STAR CHINESE MOVIES LEGEND 10.90.0.6
+http://10.90.0.6:8888/http/010
+#EXTINF:-1 group-title="10.90.0.6", REFORMED21 10.90.0.6
+http://10.90.0.6:8888/http/011
+#EXTINF:-1 group-title="10.90.0.6", DUCK TV 10.90.0.6
+http://10.90.0.6:8888/http/012
+#EXTINF:-1 group-title="10.90.0.6", KIX 10.90.0.6
+http://10.90.0.6:8888/http/013
+#EXTINF:-1 group-title="10.90.0.6", TRANS TV 10.90.0.6
+http://10.90.0.6:8888/http/014
+#EXTINF:-1 group-title="10.90.0.6", DISNEY JUNIOR 10.90.0.6
+http://10.90.0.6:8888/http/015
+#EXTINF:-1 group-title="10.90.0.6", THRILL 10.90.0.6
+http://10.90.0.6:8888/http/016
+#EXTINF:-1 group-title="10.90.0.6", T MUSIC 10.90.0.6
+http://10.90.0.6:8888/http/017
+#EXTINF:-1 group-title="10.90.0.6", STAR CHINESE MOVIES 10.90.0.6
+http://10.90.0.6:8888/http/018
+#EXTINF:-1 group-title="10.90.0.6", V CHANNEL 10.90.0.6
+http://10.90.0.6:8888/http/019
+#EXTINF:-1 group-title="10.90.0.6", EAT & GO 10.90.0.6
+http://10.90.0.6:8888/http/020
+#EXTINF:-1 group-title="10.90.0.6", FX 10.90.0.6
+http://10.90.0.6:8888/http/021
+#EXTINF:-1 group-title="10.90.0.6", ELSHINTA TV 10.90.0.6
+http://10.90.0.6:8888/http/023
+#EXTINF:-1 group-title="10.90.0.6", TV9 10.90.0.6
+http://10.90.0.6:8888/http/024
+
+##### TRANSCODE ALILA 172.22.55.2 #####
+#EXTINF:-1 group-title="172.22.55.2", FOX SPORTS 1 172.22.55.2
+http://172.22.55.2:8888/http/001
+#EXTINF:-1 group-title="172.22.55.2", FOX SPORTS 2 172.22.55.2
+http://172.22.55.2:8888/http/002
+#EXTINF:-1 group-title="172.22.55.2", FOX SPORTS 3 172.22.55.2
+http://172.22.55.2:8888/http/003
+#EXTINF:-1 group-title="172.22.55.2", NAT GEO WILD 172.22.55.2
+http://172.22.55.2:8888/http/004
+#EXTINF:-1 group-title="172.22.55.2", FOX FAMILY MOVIES 172.22.55.2
+http://172.22.55.2:8888/http/005
+#EXTINF:-1 group-title="172.22.55.2", FOX ACTION MOVIES 172.22.55.2
+http://172.22.55.2:8888/http/006
+#EXTINF:-1 group-title="172.22.55.2", FOX 172.22.55.2
+http://172.22.55.2:8888/http/007
+#EXTINF:-1 group-title="172.22.55.2", FOX LIFE 172.22.55.2
+http://172.22.55.2:8888/http/008
+#EXTINF:-1 group-title="172.22.55.2", FOX MOVIES 172.22.55.2
+http://172.22.55.2:8888/http/009
+#EXTINF:-1 group-title="172.22.55.2", NAT GEO 172.22.55.2
+http://172.22.55.2:8888/http/010
+#EXTINF:-1 group-title="172.22.55.2", NAT GEO PEOPLE 172.22.55.2
+http://172.22.55.2:8888/http/011
+#EXTINF:-1 group-title="172.22.55.2", ABC AUSTRALIA 172.22.55.2
+http://172.22.55.2:8888/http/014
+#EXTINF:-1 group-title="172.22.55.2", CNN INTERNATIONAL 172.22.55.2
+http://172.22.55.2:8888/http/015
+#EXTINF:-1 group-title="172.22.55.2", BLOOMBERG 172.22.55.2
+http://172.22.55.2:8888/http/016
+#EXTINF:-1 group-title="172.22.55.2", NHK PREMIUM 172.22.55.2
+http://172.22.55.2:8888/http/018
+#EXTINF:-1 group-title="172.22.55.2", WAKU WAKU 172.22.55.2
+http://172.22.55.2:8888/http/019
+#EXTINF:-1 group-title="172.22.55.2", HBO 172.22.55.2
+http://172.22.55.2:8888/http/023
+#EXTINF:-1 group-title="172.22.55.2", MTV LIVE 172.22.55.2
+http://172.22.55.2:8888/http/026
+#EXTINF:-1 group-title="172.22.55.2", CNBC ASIA 172.22.55.2
+http://172.22.55.2:8888/http/031
+#EXTINF:-1 group-title="172.22.55.2", DISNEY JUNIOR 172.22.55.2
+http://172.22.55.2:8888/http/032
+#EXTINF:-1 group-title="172.22.55.2", TVN 172.22.55.2
+http://172.22.55.2:8888/http/033
+#EXTINF:-1 group-title="172.22.55.2", AXN 172.22.55.2
+http://172.22.55.2:8888/http/038
+#EXTINF:-1 group-title="172.22.55.2", BERITA SATU 172.22.55.2
+http://172.22.55.2:8888/http/048
+#EXTINF:-1 group-title="172.22.55.2", FOX CRIME 172.22.55.2
+http://172.22.55.2:8888/http/052
+
+##### TRANSCODE GTV 10.92.0.3 #####
+#EXTINF:-1 group-title="10.92.0.3", FOX MOVIES 10.92.0.3
+http://10.92.0.3:8888/http/001
+#EXTINF:-1 group-title="10.92.0.3", FOX 10.92.0.3
+http://10.92.0.3:8888/http/002
+#EXTINF:-1 group-title="10.92.0.3", NAT GEO 10.92.0.3
+http://10.92.0.3:8888/http/003
+#EXTINF:-1 group-title="10.92.0.3", FOX LIFE 10.92.0.3
+http://10.92.0.3:8888/http/004
+#EXTINF:-1 group-title="10.92.0.3", FOX ACTION MOVIES 10.92.0.3
+http://10.92.0.3:8888/http/005
+#EXTINF:-1 group-title="10.92.0.3", FOX FAMILY MOVIE 10.92.0.3
+http://10.92.0.3:8888/http/006
+#EXTINF:-1 group-title="10.92.0.3", FOX SPORTS 10.92.0.3
+http://10.92.0.3:8888/http/007
+#EXTINF:-1 group-title="10.92.0.3", FOX SPORTS 2 10.92.0.3
+http://10.92.0.3:8888/http/008
+#EXTINF:-1 group-title="10.92.0.3", FOX SPORTS 3 10.92.0.3
+http://10.92.0.3:8888/http/009
+#EXTINF:-1 group-title="10.92.0.3", ARIRANG TV 10.92.0.3
+http://10.92.0.3:8888/http/011
+

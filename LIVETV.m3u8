@@ -546,8 +546,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SABUNG AYAM
 
-#####################################################################################################
-
 ############### EXCLUSIVE ###############
 
 ########### MOVIES/SERIES CHANNEL #############
@@ -562,29 +560,29 @@ https://raw.githubusercontent.com/hencha69/live/master/hbosig.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wwwqc2u.png" group-title="MOVIES/SERIES", CINEMAX 
 https://raw.githubusercontent.com/hencha69/live/master/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRpZW4N.png" group-title="MOVIES/SERIES", RED BY HBO 
-https://www.dropbox.com/s/r274lifa8hsp1i1/red.m3u8?dl=1
+https://raw.githubusercontent.com/hencha69/live/master/red.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pz1tzl.png" group-title="MOVIES/SERIES", FOX MOVIES
-#https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9igBj1.png" group-title="MOVIES/SERIES", FOX ACTION MOVIES
-#https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrnRnm9.png" group-title="MOVIES/SERIES", FOX FAMILY MOVIES
-#https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF03tTN.png" group-title="MOVIES/SERIES", FOX CRIME
-#https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJjrZip.png" group-title="MOVIES/SERIES", FOX LIFE
-#https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHEIn3q.png" group-title="MOVIES/SERIES", FOX
-#https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZFTYQXQ.png" group-title="MOVIES/SERIES", FX
-#https://delivery.macan.tv/stream/id_fx/playlist.m3u8?token=macangratisan&v=20200807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8p91Wl.png" group-title="MOVIES/SERIES", AXN
-https://mkctv.net/usetvvv/axn.m3u8
+https://raw.githubusercontent.com/hencha69/live/master/AXN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8p91Wl.png" group-title="MOVIES/SERIES", AXN
 https://zalogi.xyz/exo/playlist/axn-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8p91Wl.png" group-title="MOVIES/SERIES", AXN
-http://thepwfamily.com/stream/axn.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8p91Wl.png" group-title="MOVIES/SERIES", AXN
-http://103.47.132.164/PLTV/88888888/224/3221227159/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQJlByK.png" group-title="MOVIES/SERIES", BLUE ANT EXTREME
 https://zalogi.xyz/exo/playlist/blueantextreme-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQJlByK.png" group-title="MOVIES/SERIES", BLUE ANT EXTREME
